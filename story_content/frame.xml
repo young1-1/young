@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="서영민2" />
+              <option name="title_text" value="서영민3" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1181,14 +1181,18 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6Q4MiCTjMfv" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.5hFmWDVY6tj" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6Q4MiCTjMfv.5gKvr5yRAko" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6Q4MiCTjMfv.68G86bSe19K" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6Q4MiCTjMfv.5rEuJCiUill" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6Q4MiCTjMfv.5yHP113MThk" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6Q4MiCTjMfv.64siNyBm5Nq" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6Q4MiCTjMfv.5ihOmHaB9hA" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5hFmWDVY6tj.5VbOI21B2Lp" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5hFmWDVY6tj.5eQHg2jKgzv" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5hFmWDVY6tj.5byGZuq2uQ1" displaytext="대구 교대는 대구에 있다." expand="false" type="slide" />
+            <slidelink slideid="_player.5hFmWDVY6tj.64bCJ2hrx0p" displaytext="대구 교대는 어느 지역에 있습니까?" expand="false" type="slide" />
+            <slidelink slideid="_player.5hFmWDVY6tj.6cIAFKpiVzN" displaytext="대구 교대는 어디에 있습니까?" expand="false" type="slide" />
+            <slidelink slideid="_player.5hFmWDVY6tj.5gJaForfUFv" displaytext="Fill-in-the-Blank" expand="false" type="slide" />
+            <slidelink slideid="_player.5hFmWDVY6tj.6SPjZMGNYTr" displaytext="대구교대는 (               )에 있다." expand="false" type="slide" />
+            <slidelink slideid="_player.5hFmWDVY6tj.5XKIiVQLzIy" displaytext="Matching Drag-and-Drop" expand="false" type="slide" />
+            <slidelink slideid="_player.5hFmWDVY6tj.6DovaUGYrAg" displaytext="10이하의 짝수를 쓰세요." expand="false" type="slide" />
+            <slidelink slideid="_player.5hFmWDVY6tj.6B7h2u4TCPS" displaytext="단풍국으로 유명한 나라는 어디일까요?" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
